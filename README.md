@@ -8,7 +8,7 @@ Hamburg Germany
 **Free registration** https://www.eventbrite.com/e/8th-rdkit-ugm-2019-tickets-58836131453
 
 ## Logistics and hotel info:
-See the PDF file
+See the [PDF](Info/RDKit_UGM_2019_Hotel_Recommendations.pdf) file
 
 ## Call for talks and posters:
 We are looking for people who are willing to do presentations, talktorials or posters on the first two days. 
