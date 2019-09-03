@@ -17,4 +17,5 @@ If you're interested in contributing, please send us email: rdkitugm2019 (at) zb
 Lighting talks don't need to be arranged too far in advance; we will start collecting the list of people interested 
 in doing those shortly before the event.
 
-
+## Draft agenda is available
+The draft agenda with the allocated time blocks is available [here](Info/Draft_Agenda.pdf)
