@@ -20,8 +20,7 @@ Hamburg Germany
 We are looking for people who are willing to do presentations, talktorials or posters on the first two days. 
 If you're interested in contributing, please send us email: rdkitugm2019 (at) zbh.uni-hamburg.de
 
-Lighting talks don't need to be arranged too far in advance; we will start collecting the list of people interested 
-in doing those shortly before the event.
+Lighting talks will be decided on shortly before the event or even diectly at the event. An editable link was sent out to all participants via email. If you haven't received it, please write to the team organizing the event. rdkitugm2019(at)zbh.uni-hamburg.de
 
 ## Draft agenda is available
 The draft agenda with the allocated time blocks is available [here](Info/Draft_Agenda.pdf)
