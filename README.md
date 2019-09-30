@@ -20,7 +20,7 @@ Hamburg Germany
 List of posters can be found [here](Info/rdkitugm2019_poster_presentations.pdf) and the list of talks is included in the draft agenda [here](Info/Draft_Agenda.pdf)
 
 **Lighting talks** will be decided on shortly before the event or even diectly at the event. An editable link was sent out to all participants via email.
-The final list of lightning talks can be found [here](Lightning/lightning_talks_list_with_titlesl.pdf)
+The final list of lightning talks can be found [here](Lightning/lightning_talks_list_with_titles.pdf)
 
 ## Draft agenda is available
 The draft agenda with the allocated time blocks is available [here](Info/Draft_Agenda.pdf)
